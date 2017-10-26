@@ -25,7 +25,7 @@ SECRET_KEY = 'c$s9hhqufp!)(k=l69!b6bi=m9*s%ha2)po_d(sycrm=(j^u46'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<susieq>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'susieq.pythonanywhere.com']
 
 
 # Application definition
